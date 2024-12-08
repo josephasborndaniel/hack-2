@@ -610,6 +610,14 @@ video {
   width: 100%;
 }
 
+.w-px {
+  width: 1px;
+}
+
+.w-52 {
+  width: 13rem;
+}
+
 .flex-1 {
   flex: 1 1 0%;
 }
@@ -691,14 +699,14 @@ video {
   background-color: rgb(229 231 235 / var(--tw-bg-opacity, 1));
 }
 
-.bg-gray-400 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(156 163 175 / var(--tw-bg-opacity, 1));
-}
-
 .bg-white {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
+}
+
+.bg-gray-400 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(156 163 175 / var(--tw-bg-opacity, 1));
 }
 
 .bg-gray-300 {
